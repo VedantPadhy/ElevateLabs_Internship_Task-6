@@ -57,6 +57,8 @@ Sort the results by revenue in descending order.
 ### Limit Results for Specific Time Period
 Limit the results to a specific number of records for analysis.
 
+### Files:
+SQL Query files, for Output- there are .csv files uploaded to see those outputs.
 ---
 
 
